@@ -13,6 +13,7 @@ Code freeze date: YYYY-MM-DD
 ### Added
 
 ### Changed
+- Updated Impact Calculation Tutorial (`doc.climada_engine_Impact.ipynb`) [#1095](https://github.com/CLIMADA-project/climada_python/pull/1095).
 
 ### Fixed
 
